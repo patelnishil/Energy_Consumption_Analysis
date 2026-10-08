@@ -1,0 +1,15 @@
+id,appliance,category,date,units_kwh,cost
+1,Air Conditioner,Cooling,2026-07-05,8.50,68
+2,Refrigerator,Kitchen,2026-07-05,3.20,25.60
+3,LED Lights,Lighting,2026-07-06,2.10,16.80
+4,Computer,Electronics,2026-07-10,5.40,43.20
+5,Air Conditioner,Cooling,2026-08-05,9.20,73.60
+6,Refrigerator,Kitchen,2026-08-05,3.30,26.40
+7,Computer,Electronics,2026-08-10,5.80,46.40
+8,LED Lights,Lighting,2026-08-10,2.40,19.20
+9,Air Conditioner,Cooling,2026-09-05,10.10,80.80
+10,Refrigerator,Kitchen,2026-09-05,3.10,24.80
+11,Computer,Electronics,2026-09-10,5.20,41.60
+12,LED Lights,Lighting,2026-09-10,2.20,17.60
+13,TV,Electronics,2026-10-04,6.80,56.30
+14,TV,Electronics,2026-10-08,11.50,75.40
